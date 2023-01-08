@@ -1,0 +1,20 @@
+(b)		Search a particular number from an array.
+	
+10	15	45	20	25	6	1	100	65	99
+0	1	2	3	4	5	6	7	8	9
+
+item	25		position	4
+
+Input (Declarations and Initializations): int arr[10], int item, int position = -1.
+
+Process:
+
+1.	Compare the value of item with the element in the index-value 0 of the array.
+2.	If, they are equal, the value of position will be the value of the index and exit. Else, go to next index.
+3.	Repeat (1) and (2) for all the indexes.
+
+Output: 
+
+1.	Check the value of position.
+If, it is -1, Print item not found in the array.
+Else, Print item found at position.

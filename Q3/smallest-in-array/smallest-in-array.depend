@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672834398 source:c:\users\syedr\desktop\c++ q & a\q3\smallest-in-array\main.cpp
+	<iostream>
+	<algorithm>
+
+1672834924 source:c:\users\syedr\desktop\c++ q & a\q3\smallest-in-array\secondsolution.cpp
+	<iostream>
+	<array>
+
